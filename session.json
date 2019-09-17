@@ -1,0 +1,17 @@
+{
+    "user_id": "0050w000000jTjBAAU", 
+    "session_id": "00D0w0000008ceh!AQgAQMKTqAOc8zynmYO7a60EXZuZR9gKZ1nbQu0ynDBj9e52ovXpsnsGO71b9K.OkdH0LEDcFhUqC2Xdl6jQQIKTV_Dpx9dA", 
+    "success": true, 
+    "project name": "INSEAD-sit", 
+    "metadata_url": "https://insead--sit.my.salesforce.com/services/Soap/m/42.0", 
+    "instance_url": "https://insead--sit.my.salesforce.com", 
+    "rest_url": "https://insead--sit.my.salesforce.com/services/data/v42.0", 
+    "headers": {
+        "Content-Type": "application/json; charset=UTF-8", 
+        "Authorization": "OAuth 00D0w0000008ceh!AQgAQMKTqAOc8zynmYO7a60EXZuZR9gKZ1nbQu0ynDBj9e52ovXpsnsGO71b9K.OkdH0LEDcFhUqC2Xdl6jQQIKTV_Dpx9dA", 
+        "Accept": "application/json"
+    }, 
+    "time_stamp": "2019-09-17 13:53:51", 
+    "apex_url": "https://insead--sit.my.salesforce.com/services/Soap/s/42.0", 
+    "partner_url": "https://insead--sit.my.salesforce.com/services/Soap/u/42.0"
+}
